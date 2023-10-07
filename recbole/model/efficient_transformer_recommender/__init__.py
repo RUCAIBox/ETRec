@@ -1,0 +1,5 @@
+from recbole.model.efficient_transformer_recommender.mlpmixer import MLPMixer
+from recbole.model.efficient_transformer_recommender.linformer import Linformer
+from recbole.model.efficient_transformer_recommender.synthesizer import Synthesizer
+from recbole.model.efficient_transformer_recommender.performer import Performer
+from recbole.model.efficient_transformer_recommender.lineartrm import LinearTrm
