@@ -20,7 +20,7 @@ recbole>=1.0.0
 | MLPMixer    | recbole/model/efficient_transformer_recommender/mlpmixer.py  | recbole/properties/model/MLPMixer.yaml    |
 | Performer   | recbole/model/efficient_transformer_recommender/performer.py | recbole/properties/model/Performer.yaml   |
 | Synthesizer | recbole/model/efficient_transformer_recommender/synthesizer.py | recbole/properties/model/Synthesizer.yaml |
-| HaloNet     | recbole/model/efficient_transformer_recommender/halonet.py   | recbole/properties/model/                 |
+| HaloNet     | recbole/model/efficient_transformer_recommender/halonet.py   | recbole/properties/model/HaloNet.yaml     |
 
 **Please consider to cite our papers if this framework helps you, thanks:**
 
