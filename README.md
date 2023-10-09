@@ -28,7 +28,7 @@ recbole>=1.0.0
 @inproceedings{sun2023towards,
   title={Towards Efficient and Effective Transformers for Sequential Recommendation},
   author={Sun, Wenqi and Liu, Zheng and Fan, Xinyan and Wen, Ji-Rong and Zhao, Wayne Xin},
-  booktitle={International Conference on Database Systems for Advanced Applications},
+  booktitle={{DASFAA} '23: The 28th International Conference on Database Systems for Advanced Applications, Tianjin, China, April 17-20, 2023, Part {II}},
   pages={341--356},
   year={2023}
 }
