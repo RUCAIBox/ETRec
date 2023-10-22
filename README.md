@@ -25,7 +25,7 @@ recbole>=1.0.0
 **Please consider to cite our papers if this framework helps you, thanks:**
 
 ```
-@inproceedings{sun2023towards,
+@inproceedings{sun2023etrec,
   title={Towards Efficient and Effective Transformers for Sequential Recommendation},
   author={Sun, Wenqi and Liu, Zheng and Fan, Xinyan and Wen, Ji-Rong and Zhao, Wayne Xin},
   booktitle={{DASFAA} '23: The 28th International Conference on Database Systems for Advanced Applications, Tianjin, China, April 17-20, 2023, Part {II}},
